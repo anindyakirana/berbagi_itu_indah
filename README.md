@@ -1,2 +1,7 @@
-# berbagi_itu_indah
-Berbagi apa yg saya punya 
+# Berbagi itu indah
+ 
+<?php 
+
+Salam seduluran | salam coding :)
+
+?>
